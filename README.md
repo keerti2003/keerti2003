@@ -15,7 +15,7 @@ Software Engineer
 📫 Feel free to reach out to me for collaboration or discussions around backend systems and software engineering roles.
 
 * 🌍  I'm based in Chennai, India
-* 🖥️  Portfolio at [🔗Visit My Portfolio](http://keerti2003.github.io/keerti_portfolio1/)
+* 🖥️  Portfolio at 🔗[Visit My Portfolio](http://keerti2003.github.io/keerti_portfolio1/)
 * ✉️  You can contact me at [keerti2003.mk@gmail.com](mailto:keerti2003.mk@gmail.com)
 
 ### Tech Stack
