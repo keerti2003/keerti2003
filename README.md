@@ -1,22 +1,64 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Keerti M
-=================================================================================================================================
+<!-- HEADER ANIMATION -->
 
-Software Engineer
------------------
+<h1 align="center">Hi 👋, I'm Keerti M</h1>
+<!--<h3 align="center">Software Engineer | Backend Systems | Distributed Architecture</h3>-->
 
-💡 I enjoy building reliable backend systems and solving real-world engineering problems through automation and scalable architectures.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+Enthusiast;System+Design+Learner;Building+Scalable+Platforms" />
+  </a>
+</p>
 
-🎓 I’m a Computer Science Engineering graduate and currently working as a Software Development Engineer.
+---
 
-🌱 I’m focused on deepening my understanding of system design, fault-tolerant services, and production-grade backend development.
+## 🚀 Currently Building
 
-🧠 I’ve worked on machine learning projects involving handwriting recognition, model training, and accuracy optimization.
+### **CivicTrack – Public Infrastructure Issue Reporting Platform**
 
-📫 Feel free to reach out to me for collaboration or discussions around backend systems and software engineering roles.
+I am developing a scalable backend platform designed to improve transparency and efficiency in civic issue resolution.
 
-* 🌍  I'm based in Chennai, India
-* 🖥️  Portfolio at 🔗[Visit My Portfolio](http://keerti2003.github.io/keerti_portfolio1/)
-* ✉️  You can contact me at [keerti2003.mk@gmail.com](mailto:keerti2003.mk@gmail.com)
+✨ Key Features:
+- Real-time issue reporting and tracking
+- Geolocation-based routing to responsible authorities
+- SLA-driven automated escalation workflows
+- End-to-end lifecycle management with audit history
+
+🛠️ Built using:
+**Java • Spring Boot • PostgreSQL • REST Architecture**
+
+---
+
+## 💼 Professional Experience
+
+At **ION Group**, I engineered mission-critical financial data processing systems.
+
+📈 Impact:
+- Improved system reliability by **~80%**
+- Increased distributed processing throughput by **~60%**
+- Strengthened automation, observability, and production debugging workflows
+
+---
+
+## 🧠 Technical Interests
+
+- Distributed Systems
+- Backend Architecture
+- Fault-Tolerant Services
+- System Design
+- Performance Optimization
+- Data Processing Pipelines
+
+---
+
+## 🏆 Achievements
+
+- 🧠 Solved **400+ LeetCode problems**
+- 🏅 Recognized as **Top Coder at VIT**
+- 🥇 Finalist – Webverse Hackathon
+- 🥈 4th Place – Coding Competition
+- 📄 Published research paper on CNN-based NLP system
+
+---
 
 ### Tech Stack
 [![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)]()
@@ -44,11 +86,18 @@ Software Engineer
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Oracle](https://img.shields.io/badge/Oracle-DD0000?style=for-the-badge&logo=oracle&logoColor=white)]()
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Socials
-<p align="left"> <a href="https://www.github.com/keerti2003" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/keerti-mahesh-108224191/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a><a href="mailto:keerti2003.mk@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail" title="Email Keerti"/></a>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/keerti-mahesh-108224191/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:keerti2003.mk@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://keerti2003.github.io/keerti_portfolio1/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
+---
 
-
-</p>
+⭐ *Always open to collaborating on backend systems, distributed architecture, and impactful engineering projects.*
