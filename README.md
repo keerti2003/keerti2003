@@ -52,7 +52,7 @@ At **ION Group**, I engineered mission-critical financial data processing system
 
 ## 🏆 Achievements
 
-- 🧠 Solved **400+ LeetCode problems**
+- 🧠 Solved **500+ LeetCode problems**
 - 🏅 Recognized as **Top Coder at VIT**
 - 🥇 Finalist – Webverse Hackathon
 - 🥈 4th Place – Coding Competition
